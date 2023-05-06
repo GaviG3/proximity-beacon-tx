@@ -1,5 +1,5 @@
 radio.setGroup(1)
-radio.setTransmitPower(3)
+radio.setTransmitPower(1)
 basic.showLeds(`
     . . . . .
     . . # . .
